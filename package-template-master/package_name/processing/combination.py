@@ -1,4 +1,6 @@
 #Author: Karina Tiemi Kato
+#pip install skimage -- É importante a instalação da biblioteca para o uso
+
 import numpy as np
 from skimage.color import rgh2gray
 from skimage.exposure import match_histograms
